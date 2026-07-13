@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: himanshu-portfolio
+    env: static
+    buildCommand: echo "No build needed"
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: true
