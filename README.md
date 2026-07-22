@@ -67,8 +67,7 @@ The site includes **Matrix rain**, **particle networks**, **glitch effects**, **
 ## 📸 **Screenshots**
 
 | Splash Screen | Main Portfolio | Admin Dashboard |
-| :-----------: | :------------: | :-------------: |
-| ![Splash](https://files.catbox.moe/ztf7a0.jpg) | ![Hero](https://files.catbox.moe/ztf7a0.jpg) | ![Admin](https://files.catbox.moe/ztf7a0.jpg) |
+| :-----------: | :------------: | :-------------: | |
 
 > *Add real screenshots by uploading images to your repo or an image hosting service.*
 
